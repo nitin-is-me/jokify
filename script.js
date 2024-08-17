@@ -7,3 +7,6 @@ async function getData(){
 
 getData();
 document.getElementById("reload").addEventListener("click", getData)
+
+//not a good project, seems like it's made by a kid
+//hahahahaah
