@@ -7,3 +7,5 @@ async function getData(){
 
 getData();
 document.getElementById("reload").addEventListener("click", getData)
+
+//learn to use javascript inbuilt fetch() method first, then move to axios
